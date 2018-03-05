@@ -41,6 +41,5 @@ def play(board)
   while round < 9
     turn(board)
     round += 1
-    puts round
   end
 end
